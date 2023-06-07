@@ -7,4 +7,5 @@ Examenes de la materia del itba analisis predictivo
 - Fuente de datos: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 - 2do EXAMEN
-- 
+- Codigo Python: https://github.com/JustoSole/Analisis-Predictivo-2023-1Q/blob/main/TP2_AnalisisPredictivo.ipynb
+- PPT
