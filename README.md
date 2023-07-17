@@ -9,3 +9,7 @@ Examenes de la materia del itba analisis predictivo
 - 2do EXAMEN
 - Codigo Python: https://github.com/JustoSole/Analisis-Predictivo-2023-1Q/blob/main/TP2_AnalisisPredictivo.ipynb
 - PPT: https://github.com/JustoSole/Analisis-Predictivo-2023-1Q/blob/main/TP2%20-%20Analisis%20predictivo%20-%20Justo%20Soleno.pptx
+
+- FINAL
+- Codigo Python: https://colab.research.google.com/drive/1kqB4qH4BAreZMSHmkuhNwmFkvAxoqMZU?usp=sharing
+- PPT: https://docs.google.com/presentation/d/1OOAmtOqe-RpmCp41QRGQnfvb9-Z4KJLlso2QbCZEDBs/edit?usp=sharing
